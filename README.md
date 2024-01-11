@@ -157,6 +157,8 @@ contact [opencode@microsoft.com](mailto:opencode@microsoft.com) with any additio
 
 Code contributed should follow the C# specifications and best practices as documented [here](https://docs.microsoft.com/en-us/dotnet/csharp/programming-guide/inside-a-program/coding-conventions).
 
+OK Let us try Rebase! Woot.
+
 ## License
 
 This project is released under the [MIT License](LICENSE).
